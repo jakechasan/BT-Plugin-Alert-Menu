@@ -68,7 +68,7 @@ Can I use this plugin on my self-hosted Buzztouch account?
 
 Can I use this plugin on apps hosted at Buzztouch.com?
 
-*Yes, but you must install it through the [Buzztouch Plugin Market](http://www.buzztouch.com/plugins/plugin.php?pid=8901C4D9F816959026BE5D9).*
+*Yes, but you must install it through the [Buzztouch Plugin Market](http://www.buzztouch.com/plugins/plugin.php?pid=4A71B334AF77045EBA8E3BD).*
 
 
 ## Collaboration
