@@ -1,0 +1,32 @@
+//buzztouch plugin info
+uniquePluginId: jc_alertview
+displayAs: Alert Menu
+category: Menu
+loadClassOrActionName: JC_AlertView
+hasChildItems: No
+supportedDevices: ios
+
+//author info
+authorName: Jake Chasan
+authorEmail: jappdesign@icloud.com
+authorBuzztouchURL: https://www.buzztouch.com/Jake Chasan
+authorWebsiteURL: http://www.jakechasan.com
+authorTwitterURL: http://twitter.com/jakechasan
+authorFacebookURL: https://www.facebook.com/jakechasan
+authorLinkedInURL: 
+authorYouTubeURL: 
+
+//version info
+versionNumber: 2.2
+versionString: v2.2
+updateURL: https://www.buzztouch.com/plugins/update.php?pid=4A71B334AF77045EBA8E3BD
+downloadURL: https://www.buzztouch.com/plugins/download.php?pid=4A71B334AF77045EBA8E3BD
+
+//default json data
+defaultJSONData:
+{"navBarTitleText":"[itemNickname]", "button1Exist":"Yes", "button2Exist":"No", "button3Exist":"No", "alertTitle":"Alert Title", 
+"alertMessage":"Alert Message"}
+
+//description for control panel. Up to 250 characters. No HTML.
+shortDescription:
+This Plugin uses the native UI Alert functionality of iOS to create pop-up navigation. You can configure the Title, Message, Button Labels, and what screen to load for each button. 

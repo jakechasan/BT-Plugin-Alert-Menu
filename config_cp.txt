@@ -1,0 +1,10 @@
+{"propertySections":[
+	{"fileType":"custom", "fileName":"jc_alertNavBar.html"},
+	{"fileType":"custom", "fileName":"jc_alertInfo.html"},
+	{"fileType":"custom", "fileName":"jc_alertCancelButton.html"},
+	{"fileType":"custom", "fileName":"jc_alertButtons.html"},
+	{"fileType":"bt_section", "fileName":"btSection_login.html"},
+	{"fileType":"bt_section", "fileName":"btSection_search.html"},
+	{"fileType":"bt_section", "fileName":"btSection_screenJson.html"}	
+	]
+}
