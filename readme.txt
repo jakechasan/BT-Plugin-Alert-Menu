@@ -14,6 +14,7 @@ v2.0-Updated for iOS 3.0 Core
 v2.1-Compatibility Update for Buzztouch
 v2.2-Fixed problem loading screens on BT3.0 Core
 	-Fixed a typo in the control panel
+v2.3-Compatibility with BT4.0 and iOS 10
 
 iOS Project
 ------------------------
